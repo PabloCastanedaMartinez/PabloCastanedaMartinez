@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo Antonio Castañeda Martinez
-- 🌱 I’m currently learning C++, Java, and Python.
+- 🌱 I’m currently learning C++ and Java.
 - 😄 Pronouns: He/Him
 
 <!---
